@@ -1,0 +1,82 @@
+<div class="background-image">
+  <h1>Calculadora en Angular con API</h1>
+  <div class="container">
+    <div class="row calculator-container">
+      <div class="col-12">
+        <input class="input-screen-round" type="text" readonly="true" value="0" [formControl]="pantalla">
+      </div>
+      <div class="col-3 without-margin">
+        <button class="top" (click)="especificarOperacion('+')">+</button>
+      </div>
+      <div class="col-3 without-margin">
+        <button class="top" (click)="especificarOperacion('-')">-</button>
+      </div>
+      <div class="col-3 without-margin">
+        <button class="top" (click)="especificarOperacion('*')">*</button>
+      </div>
+      <div class="col-3 without-margin">
+        <button class="top" (click)="especificarOperacion('/')">/</button>
+      </div>
+
+      <div class="col-3 without-margin">
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('7')">7</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('4')">4</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('1')">1</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('0')" class="btn-0-round">0</button>
+        </div>
+      </div>
+
+      <div class="col-3 without-margin">
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('8')">8</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('5')">5</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('2')">2</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('.')">.</button>
+        </div>
+      </div>
+
+      <div class="col-3 without-margin">
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('9')">9</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('6')">6</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="mostrarValorEnPantalla('3')">3</button>
+        </div>
+        <div class="without-margin">
+          <button (click)="limpiarPantalla()">AC</button>
+        </div>
+      </div>
+
+      <div class="col-3 without-margin">
+        <div style="height: 50%">
+          <div class="without-margin">
+            <button (click)="calcularRaizCuadrada()">√</button>
+          </div>
+          <div class="without-margin">
+            <button (click)="calcularExponencial()">x²</button>
+          </div>
+        </div>
+        <div style="height: 50%">
+          <button (click)="calcularResultado()" class="btn-equal-round">=</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

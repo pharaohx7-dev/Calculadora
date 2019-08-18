@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraWebApi", "CalculadoraWebApi\CalculadoraWebApi.csproj", "{FEAFF000-5F19-4CE7-B203-E44CBA58BD16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraSpecs", "CalculadoraSpecs\CalculadoraSpecs.csproj", "{F6B51A0A-BCAD-404D-8D9D-CAA16E0AD224}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAFF000-5F19-4CE7-B203-E44CBA58BD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAFF000-5F19-4CE7-B203-E44CBA58BD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAFF000-5F19-4CE7-B203-E44CBA58BD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAFF000-5F19-4CE7-B203-E44CBA58BD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B51A0A-BCAD-404D-8D9D-CAA16E0AD224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B51A0A-BCAD-404D-8D9D-CAA16E0AD224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B51A0A-BCAD-404D-8D9D-CAA16E0AD224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B51A0A-BCAD-404D-8D9D-CAA16E0AD224}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A7CE71A-19D2-4E92-A114-E35277023DAA}
+	EndGlobalSection
+EndGlobal

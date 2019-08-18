@@ -1,0 +1,143 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraSpecs\\CalculadoraSpecs.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraSpecs\\CalculadoraSpecs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraSpecs\\CalculadoraSpecs.csproj",
+        "projectName": "CalculadoraSpecs",
+        "projectPath": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraSpecs\\CalculadoraSpecs.csproj",
+        "packagesPath": "C:\\Users\\Pharaohx7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraSpecs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pharaohx7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pharaohx7 PC\\Projects Repository\\HQS Corporation\\Resources\\Nugget Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraWebApi\\CalculadoraWebApi.csproj": {
+                "projectPath": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraWebApi\\CalculadoraWebApi.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Machine.Specifications": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Machine.Specifications.Runner.VisualStudio": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Machine.Specifications.Should": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraWebApi\\CalculadoraWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraWebApi\\CalculadoraWebApi.csproj",
+        "projectName": "CalculadoraWebApi",
+        "projectPath": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraWebApi\\CalculadoraWebApi.csproj",
+        "packagesPath": "C:\\Users\\Pharaohx7\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pharaohx7\\Desktop\\CalculadoraWebApi\\CalculadoraWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pharaohx7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Pharaohx7 PC\\Projects Repository\\HQS Corporation\\Resources\\Nugget Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

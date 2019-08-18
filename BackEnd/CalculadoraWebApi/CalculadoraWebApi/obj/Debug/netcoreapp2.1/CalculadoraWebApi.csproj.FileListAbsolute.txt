@@ -1,0 +1,14 @@
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\bin\Debug\netcoreapp2.1\CalculadoraWebApi.deps.json
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\bin\Debug\netcoreapp2.1\CalculadoraWebApi.runtimeconfig.json
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\bin\Debug\netcoreapp2.1\CalculadoraWebApi.runtimeconfig.dev.json
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\bin\Debug\netcoreapp2.1\CalculadoraWebApi.dll
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\bin\Debug\netcoreapp2.1\CalculadoraWebApi.pdb
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.RazorAssemblyInfo.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.RazorAssemblyInfo.cs
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.AssemblyInfoInputs.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.AssemblyInfo.cs
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.dll
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.pdb
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraWebApi\obj\Debug\netcoreapp2.1\CalculadoraWebApi.csprojAssemblyReference.cache

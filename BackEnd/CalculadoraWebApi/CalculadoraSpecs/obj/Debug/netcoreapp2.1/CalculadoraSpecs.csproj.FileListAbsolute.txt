@@ -1,0 +1,15 @@
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraSpecs.deps.json
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraSpecs.dll
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraWebApi.dll
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraWebApi.pdb
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.csprojAssemblyReference.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.csproj.CoreCompileInputs.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.AssemblyInfoInputs.cache
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.AssemblyInfo.cs
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.csproj.CopyComplete
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\Machine.TestAdapter.dll
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraSpecs.pdb
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.dll
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\obj\Debug\netcoreapp2.1\CalculadoraSpecs.pdb
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraSpecs.runtimeconfig.json
+C:\Users\Pharaohx7\Desktop\CalculadoraWebApi\CalculadoraSpecs\bin\Debug\netcoreapp2.1\CalculadoraSpecs.runtimeconfig.dev.json
